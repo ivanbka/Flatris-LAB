@@ -12,9 +12,6 @@ some change
 
 one more
 
-and one
-
-
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
